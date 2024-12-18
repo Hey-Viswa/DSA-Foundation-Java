@@ -1,6 +1,12 @@
 # 🚀 **Data Structures and Algorithms (DSA) Roadmap**
 
-Welcome to the **DSA Roadmap Repository**! 📚 This project is designed to help you master **Data Structures and Algorithms (DSA)** over **6 months**. Whether you're preparing for technical interviews, coding competitions, or simply enhancing your problem-solving skills, this roadmap provides a **structured and comprehensive guide** from the basics to advanced concepts. 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Hey-Viswa/DSA-Foundation-Java?style=social)](https://github.com/Hey-Viswa/DSA-Foundation-Java)
+[![GitHub forks](https://img.shields.io/github/forks/Hey-Viswa/DSA-Foundation-Java?style=social)](https://github.com/Hey-Viswa/DSA-Foundation-Java/network/members)
+
+Welcome to the **DSA Roadmap Repository**! 📚 This project is designed to help you master **Data Structures and Algorithms (DSA)** over **6 months**. Whether you're preparing for technical interviews, coding competitions, or simply enhancing your problem-solving skills, this roadmap provides a **structured and comprehensive guide** from the basics to advanced concepts.
+
+**This is the official repository intended for contributions and scaling to assist new learners in their DSA journey.**
 
 ---
 
@@ -20,13 +26,13 @@ Stay organized and monitor your progress using this **interactive Notion tracker
 
 ## 📅 **6-Month DSA Roadmap at a Glance**
 | 🚀 **Month**        | 📌 **Focus Area**                               | 🔍 **Topics Covered**               |
-|------------------|-----------------------------------------------|--------------------------------------|
-| **Month 1**      | Foundations & Basic Data Structures            | Arrays, Linked Lists, Stacks, Queues |
-| **Month 2**      | Core Data Structures                           | Trees, Heaps, Graphs                |
-| **Month 3**      | Advanced Data Structures & Algorithms          | Graphs, Sorting, Divide & Conquer   |
-| **Month 4**      | Core Algorithmic Paradigms                     | Greedy, Recursion, Backtracking, DP |
-| **Month 5**      | Complex Problem-Solving                        | Sliding Window, Binary Search       |
-| **Month 6**      | Interview Preparation & Mock Practice          | Full-length mocks, Revision         |
+|---------------------|-------------------------------------------------|-------------------------------------|
+| **Month 1**         | Foundations & Basic Data Structures             | Arrays, Linked Lists, Stacks, Queues |
+| **Month 2**         | Core Data Structures                            | Trees, Heaps, Graphs                 |
+| **Month 3**         | Advanced Data Structures & Algorithms           | Graphs, Sorting, Divide & Conquer    |
+| **Month 4**         | Core Algorithmic Paradigms                      | Greedy, Recursion, Backtracking, DP  |
+| **Month 5**         | Complex Problem-Solving                         | Sliding Window, Binary Search        |
+| **Month 6**         | Interview Preparation & Mock Practice           | Full-length mocks, Revision          |
 
 ---
 
@@ -91,11 +97,27 @@ We welcome contributors to make this roadmap even better! Here’s how you can h
 - ✅ Follow efficient **time and space complexity**.
 - ✅ Add meaningful comments to explain your logic.
 
+**This repository is intended solely for contributing and scaling to help new learners. Please ensure your contributions align with this goal.**
+
 ---
 
 ## ⭐ **Support the Project**
 If you find this roadmap helpful, consider giving it a ⭐ on GitHub. Your support means a lot! 🌟
 
-[![Star on GitHub](https://img.shields.io/github/stars/username/repository-name?style=for-the-badge)](https://github.com/Hey-Viswa/DSA-Foundation-Java)
+[![Star on GitHub](https://img.shields.io/github/stars/Hey-Viswa/DSA-Foundation-Java?style=for-the-badge)](https://github.com/Hey-Viswa/DSA-Foundation-Java)
 
 🚀 *Happy Coding and All the Best!* 💻
+
+---
+
+## 📄 **License**
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ©️ **Copyright**
+© 2024 Viswa. All rights reserved.
+
+---
+
+**This is the official repository intended for contributions and scaling to assist new learners in their DSA journey. Your contributions help make this roadmap a valuable resource for the community.**
