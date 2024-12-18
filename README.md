@@ -96,6 +96,7 @@ We welcome contributors to make this roadmap even better! Here’s how you can h
 ## ⭐ **Support the Project**
 If you find this roadmap helpful, consider giving it a ⭐ on GitHub. Your support means a lot! 🌟
 
-[![Star on GitHub](https://img.shields.io/github/stars/username/repository-name?style=for-the-badge)](https://github.com/Hey-Viswa/DSA-Foundation-Java)
+[![Star on GitHub](https://img.shields.io/github/stars/Hey-Viswa/DSA-Foundation-Java?style=for-the-badge)](https://github.com/Hey-Viswa/DSA-Foundation-Java)
 
 🚀 *Happy Coding and All the Best!* 💻
+
