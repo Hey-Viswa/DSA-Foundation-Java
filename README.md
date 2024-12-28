@@ -20,7 +20,7 @@ Welcome to the **DSA Roadmap Repository**! 📚 This project is designed to help
 ## 📊 **Track Your Progress with Notion**
 Stay organized and monitor your progress using this **interactive Notion tracker**:
 
-[![Track with Notion](https://img.shields.io/badge/Track%20Progress-DSA%20Notion%20Tracker-green?style=for-the-badge&logo=notion)](https://www.notion.so/heyviswa/DSA-Roadmap-Tracker-Detailed-Guide-15fde1b2bdcc80f9a77ada41efc2ab28?pvs=4)
+[![Track with Notion](https://img.shields.io/badge/Track%20Progress-DSA%20Notion%20Tracker-green?style=for-the-badge&logo=notion)](https://heyviswa.notion.site/DSA-Roadmap-Tracker-Detailed-Guide-15fde1b2bdcc80f9a77ada41efc2ab28)
 
 ---
 
